@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F102065-27FD-4582-9B6D-80EDF0D668D6}|Exercicio5\\Exercicio5.csproj|c:\\users\\aquin\\source\\repos\\roteiro7\\exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F102065-27FD-4582-9B6D-80EDF0D668D6}|Exercicio5\\Exercicio5.csproj|solutionrelative:exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90907236-4549-4A25-9AA5-6B954C090BE2}|Stack\\Stack.csproj|c:\\users\\aquin\\source\\repos\\roteiro7\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90907236-4549-4A25-9AA5-6B954C090BE2}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AB47B7-CD34-442B-B44A-849EDCCE83B3}|Queue\\Queue.csproj|c:\\users\\aquin\\source\\repos\\roteiro7\\queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AB47B7-CD34-442B-B44A-849EDCCE83B3}|Queue\\Queue.csproj|solutionrelative:queue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4685531A-7F73-465E-AAB8-E06635BC23BE}|Exercicio4\\Exercicio4.csproj|c:\\users\\aquin\\source\\repos\\roteiro7\\exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4685531A-7F73-465E-AAB8-E06635BC23BE}|Exercicio4\\Exercicio4.csproj|solutionrelative:exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0719800-5ECB-40A5-87D5-7023FA349F96}|Exercicio3\\Exercicio3.csproj|c:\\users\\aquin\\source\\repos\\roteiro7\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0719800-5ECB-40A5-87D5-7023FA349F96}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53C76A7-9B13-4BE3-8D9A-D71DBB1BE521}|HashSet\\HashSet.csproj|c:\\users\\aquin\\source\\repos\\roteiro7\\hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53C76A7-9B13-4BE3-8D9A-D71DBB1BE521}|HashSet\\HashSet.csproj|solutionrelative:hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC8E909-D130-4493-95EC-E8DD1EA4FE8B}|Exercicio2\\Exercicio2.csproj|c:\\users\\aquin\\source\\repos\\roteiro7\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC8E909-D130-4493-95EC-E8DD1EA4FE8B}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C478D821-C2ED-45D7-96FC-B6563FE79A57}|Exercicio1\\Exercicio1.csproj|c:\\users\\aquin\\source\\repos\\roteiro7\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C478D821-C2ED-45D7-96FC-B6563FE79A57}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20C31F8-6E45-4F52-8C16-3A27CD5A0425}|Dicionario\\Dicionario.csproj|c:\\users\\aquin\\source\\repos\\roteiro7\\dicionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20C31F8-6E45-4F52-8C16-3A27CD5A0425}|Dicionario\\Dicionario.csproj|solutionrelative:dicionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1168EE2D-2942-42F8-9C73-10B23E1CDBBC}|Roteiro7\\Roteiro7.csproj|c:\\users\\aquin\\source\\repos\\roteiro7\\roteiro7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1168EE2D-2942-42F8-9C73-10B23E1CDBBC}|Roteiro7\\Roteiro7.csproj|solutionrelative:roteiro7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Exercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Exercicio5\\Program.cs",
+              "RelativeToolTip": "Exercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T21:49:37.106Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Stack\\Program.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Stack\\Program.cs",
+              "RelativeToolTip": "Stack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:33:27.089Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Exercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Exercicio4\\Program.cs",
+              "RelativeToolTip": "Exercicio4\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T21:38:45.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Queue\\Program.cs",
+              "RelativeDocumentMoniker": "Queue\\Program.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Queue\\Program.cs",
+              "RelativeToolTip": "Queue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:32:06.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\HashSet\\Program.cs",
+              "RelativeDocumentMoniker": "HashSet\\Program.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\HashSet\\Program.cs",
+              "RelativeToolTip": "HashSet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:29:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Exercicio3\\Program.cs",
+              "RelativeToolTip": "Exercicio3\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T21:31:44.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:24:31.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Dicionario\\Program.cs",
+              "RelativeDocumentMoniker": "Dicionario\\Program.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Dicionario\\Program.cs",
+              "RelativeToolTip": "Dicionario\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:28:19.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Exercicio1\\Program.cs",
+              "RelativeToolTip": "Exercicio1\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T17:36:07.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Roteiro7\\Program.cs",
+              "RelativeDocumentMoniker": "Roteiro7\\Program.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro7\\Roteiro7\\Program.cs",
+              "RelativeToolTip": "Roteiro7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:10:03.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

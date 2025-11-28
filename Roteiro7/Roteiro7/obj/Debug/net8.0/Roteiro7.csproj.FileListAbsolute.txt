@@ -1,0 +1,14 @@
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\bin\Debug\net8.0\Roteiro7.exe
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\bin\Debug\net8.0\Roteiro7.deps.json
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\bin\Debug\net8.0\Roteiro7.runtimeconfig.json
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\bin\Debug\net8.0\Roteiro7.dll
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\bin\Debug\net8.0\Roteiro7.pdb
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\obj\Debug\net8.0\Roteiro7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\obj\Debug\net8.0\Roteiro7.AssemblyInfoInputs.cache
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\obj\Debug\net8.0\Roteiro7.AssemblyInfo.cs
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\obj\Debug\net8.0\Roteiro7.csproj.CoreCompileInputs.cache
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\obj\Debug\net8.0\Roteiro7.dll
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\obj\Debug\net8.0\refint\Roteiro7.dll
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\obj\Debug\net8.0\Roteiro7.pdb
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\obj\Debug\net8.0\Roteiro7.genruntimeconfig.cache
+C:\Users\aquin\source\repos\Roteiro7\Roteiro7\obj\Debug\net8.0\ref\Roteiro7.dll

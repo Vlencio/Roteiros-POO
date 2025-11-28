@@ -1,0 +1,14 @@
+C:\Users\aquin\source\repos\Roteiro7\HashSet\bin\Debug\net8.0\HashSet.exe
+C:\Users\aquin\source\repos\Roteiro7\HashSet\bin\Debug\net8.0\HashSet.deps.json
+C:\Users\aquin\source\repos\Roteiro7\HashSet\bin\Debug\net8.0\HashSet.runtimeconfig.json
+C:\Users\aquin\source\repos\Roteiro7\HashSet\bin\Debug\net8.0\HashSet.dll
+C:\Users\aquin\source\repos\Roteiro7\HashSet\bin\Debug\net8.0\HashSet.pdb
+C:\Users\aquin\source\repos\Roteiro7\HashSet\obj\Debug\net8.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aquin\source\repos\Roteiro7\HashSet\obj\Debug\net8.0\HashSet.AssemblyInfoInputs.cache
+C:\Users\aquin\source\repos\Roteiro7\HashSet\obj\Debug\net8.0\HashSet.AssemblyInfo.cs
+C:\Users\aquin\source\repos\Roteiro7\HashSet\obj\Debug\net8.0\HashSet.csproj.CoreCompileInputs.cache
+C:\Users\aquin\source\repos\Roteiro7\HashSet\obj\Debug\net8.0\HashSet.dll
+C:\Users\aquin\source\repos\Roteiro7\HashSet\obj\Debug\net8.0\refint\HashSet.dll
+C:\Users\aquin\source\repos\Roteiro7\HashSet\obj\Debug\net8.0\HashSet.pdb
+C:\Users\aquin\source\repos\Roteiro7\HashSet\obj\Debug\net8.0\HashSet.genruntimeconfig.cache
+C:\Users\aquin\source\repos\Roteiro7\HashSet\obj\Debug\net8.0\ref\HashSet.dll

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|c:\\users\\aquin\\source\\repos\\roteiro8\\roteiro8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|solutionrelative:roteiro8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|c:\\users\\aquin\\source\\repos\\roteiro8\\roteiro8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|solutionrelative:roteiro8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|c:\\users\\aquin\\source\\repos\\roteiro8\\roteiro8\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|solutionrelative:roteiro8\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|c:\\users\\aquin\\source\\repos\\roteiro8\\roteiro8\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|solutionrelative:roteiro8\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|c:\\users\\aquin\\source\\repos\\roteiro8\\roteiro8\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|solutionrelative:roteiro8\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|c:\\users\\aquin\\source\\repos\\roteiro8\\roteiro8\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B01F0D3-D96E-4EC3-BDCF-40863437C0B5}|Roteiro8\\Roteiro8.csproj|solutionrelative:roteiro8\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form5.cs",
+              "RelativeDocumentMoniker": "Roteiro8\\Form5.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form5.cs [Projeto]",
+              "RelativeToolTip": "Roteiro8\\Form5.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T01:08:03.299Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form4.cs",
+              "RelativeDocumentMoniker": "Roteiro8\\Form4.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form4.cs [Projeto]",
+              "RelativeToolTip": "Roteiro8\\Form4.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T01:07:53.219Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form3.cs",
+              "RelativeDocumentMoniker": "Roteiro8\\Form3.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form3.cs [Projeto]",
+              "RelativeToolTip": "Roteiro8\\Form3.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T01:07:15.417Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form1.cs",
+              "RelativeDocumentMoniker": "Roteiro8\\Form1.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Roteiro8\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T00:02:31.927Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form1.cs",
+              "RelativeDocumentMoniker": "Roteiro8\\Form1.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form1.cs",
+              "RelativeToolTip": "Roteiro8\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:59:51.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form2.cs",
+              "RelativeDocumentMoniker": "Roteiro8\\Form2.cs",
+              "ToolTip": "C:\\Users\\aquin\\source\\repos\\Roteiro8\\Roteiro8\\Form2.cs [Projeto]",
+              "RelativeToolTip": "Roteiro8\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:58:30.635Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
